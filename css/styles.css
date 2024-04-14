@@ -63,6 +63,9 @@ ol {
 /* ============ HERO STYLES ============ */
 .hero {
   background-color: #2e2f42;
+}
+
+.main-taitle {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 56px;
@@ -70,6 +73,7 @@ ol {
   letter-spacing: 0.02em;
   text-align: center;
   color: #ffffff;
+
 
 }
 
