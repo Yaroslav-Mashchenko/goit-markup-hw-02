@@ -22,6 +22,7 @@ ol {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+
 }
 
 .logo-part {
@@ -149,9 +150,6 @@ ol {
 }
 
 /* ============ OUR PORTFOLIO STYLES ============ */
-.portfolio {
-  background-color: #F4F4FD
-}
 
 .section-title {
   font-weight: 700;
@@ -160,7 +158,8 @@ ol {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
-  text-transform: capitalize
+  text-transform: capitalize;
+  background-color: #F4F4FD;
 }
 
 .portfolio-page {
@@ -182,12 +181,12 @@ ol {
 }
 
 .portfolio-list-item {
-  background-color: #FFFFFF
+  background-color: #FFFFFF;
 }
 
 /* ============ FOOTER STYLES ============ */
 .page-footer {
-  background-color: #2e2f42
+  background-color: #2e2f42;
 }
 
 .logo-footer {
