@@ -150,8 +150,13 @@ ol {
 
 /* ============ OUR PORTFOLIO STYLES ============ */
 
+
 .section-portfolio {
   background-color: #F4F4FD;
+}
+
+.portfolio-list-item {
+  background-color: #FFFFFF;
 }
 
 .section-title {
@@ -183,9 +188,7 @@ ol {
 
 }
 
-.portfolio-list-item {
-  background-color: #FFFFFF;
-}
+
 
 /* ============ FOOTER STYLES ============ */
 .page-footer {
