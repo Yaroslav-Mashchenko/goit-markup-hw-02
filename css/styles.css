@@ -78,22 +78,32 @@ ol {
   letter-spacing: 0.04em;
   color: #ffffff;
   background-color: #4d5ae5;
+  cursor: pointer
 }
 
 .order-service-btn:hover,
 .order-service-btn:focus {
-  background-color: #2e2f42;
+  background-color: #404BBF;
   ;
   color: #ffffff;
 }
 
 /* ============ BENEFITS STYLES ============ */
+.benefits {
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff
+}
+
 .benefits-list-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+
 }
 
 .benefits-list-text {
@@ -102,6 +112,7 @@ ol {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+
 }
 
 /* ============ OUR TEAM STYLES ============ */
