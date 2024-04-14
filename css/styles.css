@@ -62,19 +62,19 @@ ol {
 
 /* ============ HERO STYLES ============ */
 .hero {
-
-  background-color: #2e2f42
-}
-
-.main-title {
+  background-color: #2e2f42;
+  font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
-  color: ;
-  background-color: #2e2f42;
+  color: #ffffff;
+  width: 496;
+  height: 120;
 }
+
+
 
 .order-service-btn {
   font-weight: 500;
@@ -156,6 +156,10 @@ ol {
 }
 
 /* ============ OUR PORTFOLIO STYLES ============ */
+.portfolio {
+  background-color: #F4F4FD
+}
+
 .section-title {
   font-weight: 700;
   font-size: 36px;
@@ -163,7 +167,7 @@ ol {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
-  background-color: #F4F4FD
+  text-transform: capitalize
 }
 
 .portfolio-page {
@@ -181,7 +185,7 @@ ol {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  background-color: #FFFFFF
+
 }
 
 .portfolio-list-item {
@@ -198,18 +202,15 @@ ol {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+  background-color: #2e2f42
 }
 
 .logo-part {
-  color: #2e2f42;
+  color: #f4f4fd;
 }
 
-.page-logo {
-  font-family: "Raleway", sans-serif;
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-  color: #4d5ae5;
+.text-footer {
+  line-height: 1.5;
+  color: #F4F4FD;
+  letter-spacing: 0.02em;
 }
