@@ -124,6 +124,14 @@ ol {
 }
 
 /* ============ OUR TEAM STYLES ============ */
+.our-team {
+  background-color: #F4F4FD
+}
+
+.our-team-list-item {
+  background-color: #FFFFFF
+}
+
 .section-title {
   font-weight: 700;
   font-size: 36px;
@@ -154,6 +162,14 @@ ol {
 }
 
 /* ============ OUR PORTFOLIO STYLES ============ */
+.portfolio text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+
+}
 
 
 .section-portfolio {
@@ -184,14 +200,7 @@ ol {
 
 }
 
-.portfolio text {
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
 
-}
 
 
 
