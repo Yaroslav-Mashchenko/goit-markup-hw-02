@@ -22,7 +22,6 @@ ol {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-
 }
 
 .logo-part {
@@ -81,7 +80,7 @@ ol {
   letter-spacing: 0.04em;
   color: #ffffff;
   background-color: #4d5ae5;
-  cursor: pointer
+  cursor: pointer;
 }
 
 .order-service-btn:hover {
@@ -136,7 +135,7 @@ ol {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
-  text-transform: capitalize
+  text-transform: capitalize;
 }
 
 .our-people {
@@ -151,6 +150,10 @@ ol {
 
 /* ============ OUR PORTFOLIO STYLES ============ */
 
+.portfolio {
+  background-color: #F4F4FD;
+}
+
 .section-title {
   font-weight: 700;
   font-size: 36px;
@@ -159,7 +162,7 @@ ol {
   text-align: center;
   color: #2e2f42;
   text-transform: capitalize;
-  background-color: #F4F4FD;
+
 }
 
 .portfolio-page {
@@ -197,7 +200,7 @@ ol {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-  background-color: #2e2f42
+  background-color: #2e2f42;
 }
 
 .logo-part {
