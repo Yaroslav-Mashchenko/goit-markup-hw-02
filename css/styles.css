@@ -1,7 +1,7 @@
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
-  background-color: #fff;
+  background-color: #ffffff;
 }
 
 a {
@@ -18,7 +18,7 @@ ol {
   font-family: Raleway, sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
@@ -64,10 +64,10 @@ ol {
 .main-title {
   font-weight: 700;
   font-size: 56px;
-  line-height: 1.07143;
+  line-height: 1.08;
   letter-spacing: 0.02em;
   text-align: center;
-  color: #fff;
+  color: #ffffff;
 }
 
 .order-service-btn {
@@ -75,15 +75,15 @@ ol {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  color: #fff;
-  background: #4d5ae5;
+  color: #ffffff;
+  background-color: #4d5ae5;
 }
 
 .order-service-btn:hover,
 .order-service-btn:focus {
-  background: #2e2f42;
+  background-color: #2e2f42;
   ;
-  color: #fff;
+  color: #ffffff;
 }
 
 /* ============ BENEFITS STYLES ============ */
@@ -141,6 +141,22 @@ ol {
   color: #2e2f42;
 }
 
+.portfolio-page {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.portfolio text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
 /* ============ FOOTER STYLES ============ */
 .text-footer {
   font-weight: 400;
@@ -148,7 +164,7 @@ ol {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
-  background: #2e2f42;
+  background-color: #2e2f42;
 }
 
 .page-logo {
